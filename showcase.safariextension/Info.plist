@@ -16,13 +16,6 @@
 	<string>1</string>
 	<key>Content</key>
 	<dict>
-		<key>Scripts</key>
-		<dict>
-			<key>End</key>
-			<array>
-				<string>content.js</string>
-			</array>
-		</dict>
 		<key>Stylesheets</key>
 		<array>
 			<string>content.css</string>
